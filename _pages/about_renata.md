@@ -1,1 +1,3 @@
 Hi, I am Renata. I will be helping you to soar :)
+
+Need to start flying? We got you covered! Mystacina Intelligence grew from my experience working with people from more than a hundred countries during my professional journey. I realised people need to listen to each other more, do more self-reflection and get more constructive feedback. In Mystacina Intelligence, we have tailored solutions for whatever is keeping you away from thriving at your career. 
