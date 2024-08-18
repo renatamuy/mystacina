@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Helping you soar. Elevating your journey.
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Need to start flying? We got you covered! Mystacina Intelligence grew from our experience working with people from more than forty countries during our professional journey. We realised people need to listen to each other more, do more self-reflection and get more constructive feedback. In Mystacina Intelligence, we have tailored solutions for whatever is keeping you away from thriving at your career. 
+Need to start flying? We got you covered! Mystacina Solutions grew from our experience working with people from more than forty countries during our professional journey. We realised people need to listen to each other more, do more self-reflection and get more constructive feedback. In Mystacina Solutions, we have tailored solutions for whatever is keeping you away from thriving at your career. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Board of Advisors
+description: People
 nav: true
 nav_order: 7
 

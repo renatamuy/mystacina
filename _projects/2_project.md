@@ -5,7 +5,7 @@ description: Data analysis and project expediting
 img: assets/img/2.jpg
 importance: 2
 category: analytics
-giscus_comments: true
+giscus_comments: false
 ---
 
 

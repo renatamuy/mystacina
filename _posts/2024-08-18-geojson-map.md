@@ -1,10 +1,10 @@
 ---
 layout: post
-title: a post with geojson
+title: Map
 date: 2024-08-18 17:57:00
 description: A map to celebrate our website opening
-tags: formatting charts maps
-categories: sample-posts
+tags: maps
+categories: posts
 map: true
 ---
 
@@ -19,18 +19,15 @@ This is an example post with some [geojson](https://geojson.org/) code. The supp
       "type": "Feature",
       "properties": {},
       "geometry": {
-        "coordinates": [
-          [   175.49684695569000,
-              -40.35740380000000
-          ]
-        ],
-        "type": "Point"
+        "type": "Point",
+        "coordinates": [175.496847, -40.357404]
       }
     }
   ]
 }
 ```
-````
+```
+
 
 Which generates:
 
@@ -42,12 +39,8 @@ Which generates:
       "type": "Feature",
       "properties": {},
       "geometry": {
-        "coordinates": [
-          [    175.49684695569000,
-              -40.35740380000000
-          ]
-        ],
-        "type": "Point"
+        "type": "Point",
+        "coordinates": [175.496847, -40.357404]
       }
     }
   ]
