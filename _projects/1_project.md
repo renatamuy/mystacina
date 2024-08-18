@@ -1,31 +1,30 @@
 ---
 layout: page
 title: Self-development
-description: with background image
+description: Self-development packages
 img: assets/img/1.jpg
 importance: 1
 category: self-development
 related_publications: true
 ---
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="self-development" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/prof_pic.jpg" title="self-development" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/chat.jpg" title="self-development" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Empower yourself with the help of Mystacina Solutions.
-    
+</div>
+
 # Echolocation calls
-Online or in person, one on one, active listening sessions. 
+Online or in person, one on one, active listening sessions.
 
 *Benefits:* Enhances communication skills and fosters better interpersonal interactions. Echolocation sessions are great for people interested in excelling in cross-cultural environments and introverted people struggling to have their voices heard. Package deals available for students.
 

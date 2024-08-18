@@ -2,10 +2,10 @@
 layout: page
 title: services
 permalink: /services/
-description: A growing collection of our services.
+description: Showcasing our main services.
 nav: true
 nav_order: 3
-display_categories: [self-development, analytics, masterclasses, workshops]
+display_categories: [self-development, analytics, writing, workshops]
 horizontal: false
 ---
 

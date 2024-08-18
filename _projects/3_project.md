@@ -1,41 +1,41 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Writing
+description: Writing and content support
 img: assets/img/3.jpg
 redirect: 
 importance: 3
-category: masterclasses
+category: writing
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+We are service providers for individuals, teams and institutions. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+# Custom Reports
+Creating tailored reports and briefings based on specific client needs, which could include deep dives into particular industries, regions, or emerging technologies.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+# Peka Peka
+Outreach solutions such as structuring white papers and press releases based on reports or deliverables.
+
+# Snap Feedback
+Strategic comments based on constructive feedback techniques on your one-pager document, plan or performance sent in advance. Clients can opt for commented text or a chat. Feedback in this modality restricted to documents up to 18 pages, and presentations up to 15 min long. Longer or lengthier deliverable to be considered case by case.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/prof_pic.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Writing and content evaluation.
 </div>
-<div class="row">
+
+<!--- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -78,4 +78,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} --->
