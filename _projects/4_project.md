@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: Seminars and workshops
+title: Masterclasses and workshops
+description: Masterclasses and workshops
 img: assets/img/4.jpg
 importance: 3
 category: workshops
@@ -10,11 +10,12 @@ category: workshops
 
 #Masterclasses on demand: 
 
-##Leaving the island: how to establish fruitful international collaborations
+###Leaving the island: how to establish fruitful international collaborations
 
-##Ikigai in Academia
+###Ikigai in Academia
 
-##Use your voice in English
+###Use your voice in English
+
 
 #Workshops on demand: 
 

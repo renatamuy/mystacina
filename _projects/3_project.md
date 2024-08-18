@@ -2,7 +2,7 @@
 layout: page
 title: Writing
 description: Writing and content support
-img: assets/img/3.jpg
+img: assets/img/writing.jpg
 redirect: 
 importance: 3
 category: writing
@@ -10,11 +10,14 @@ category: writing
 
 We are service providers for individuals, teams and institutions. 
 
+
 # Custom Reports
 Creating tailored reports and briefings based on specific client needs, which could include deep dives into particular industries, regions, or emerging technologies.
 
+
 # Peka Peka
 Outreach solutions such as structuring white papers and press releases based on reports or deliverables.
+
 
 # Snap Feedback
 Strategic comments based on constructive feedback techniques on your one-pager document, plan or performance sent in advance. Clients can opt for commented text or a chat. Feedback in this modality restricted to documents up to 18 pages, and presentations up to 15 min long. Longer or lengthier deliverable to be considered case by case.
