@@ -18,6 +18,7 @@ related_publications: false
 </div>
 
 # Feminine characters 
+
 A short empowerment reflection on your present conditions using knowledge coming from ancient women's knowledge and stories. Many women's stories were erased in society. This session aims at retrieving this knowledge aiming at personal development.
 
 **Benefits:** this package empowers you with ancient women's wisdom, fostering self-awareness, personal growth, and a deeper connection to feminine heritage, inspiring positive change in your life. Monthly deals available.

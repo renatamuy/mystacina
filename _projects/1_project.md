@@ -18,12 +18,11 @@ related_publications: false
 </div>
 
 # Echolocation calls
+
 Online or in person, one on one, active listening sessions.
 
 **Benefits:** Enhances communication skills and fosters better interpersonal interactions. Echolocation sessions are great for people interested in excelling in cross-cultural environments and introverted people struggling to have their voices heard. Package deals available for students.
 
-# Pascal mentoring package
-Mentoring through conversation and techniques for using your voice to fully express yourself. Aims to guide and support the mentee's development and achievement of goals over a longer period. Focused on students and early career professionals.
 
 <!--- Emojis: 
 https://gist.github.com/rxaviers/7360908 --->
