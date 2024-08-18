@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: services
+permalink: /services/
+description: A growing collection of our services.
 nav: true
 nav_order: 3
 display_categories: [self-development, analytics, masterclasses, workshops]
