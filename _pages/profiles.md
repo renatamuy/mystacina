@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: Advisory board
 nav: true
 nav_order: 7
 
@@ -28,6 +28,14 @@ profiles:
   - align: right
     image: marco.jpg
     content: about_marco.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p> </p>
+      <p> </p>
+      <p> </p>
+  - align: left
+    image: marek.jpg
+    content: about_marek.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> </p>
