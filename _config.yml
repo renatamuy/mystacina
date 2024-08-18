@@ -6,7 +6,7 @@ title: Mystacina Solutions # the website title (if blank, full name will be used
 first_name: Renata
 middle_name: L.
 last_name: Muylaert
-email: you@example.com
+email: renatamuy@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ready to take your life projects to new heights? At Mystacina Solutions, we're here to help you soar.
 footer_text: >
@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -312,8 +312,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Muylaert]
+  first_name: [Renata, L.]
 
   style: apa
   locale: en
