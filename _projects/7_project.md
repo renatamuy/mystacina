@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pacific-Atlantic
+title: Feminine characters
 description: Self-development packages
 img: assets/img/7.jpg
 importance: 1
