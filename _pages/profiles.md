@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Advisory board
+description: Board of Advisors
 nav: true
 nav_order: 7
 
@@ -14,9 +14,9 @@ profiles:
     content: about_renata.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p></p>
+      <p></p>
+      <p></p>
   - align: left
     image: sha.jpg
     content: about_sha.md
@@ -25,7 +25,7 @@ profiles:
       <p> </p>
       <p> </p>
       <p> </p>
-  - align: right
+  - align: left
     image: marco.jpg
     content: about_marco.md
     image_circular: false # crops the image to make it circular
