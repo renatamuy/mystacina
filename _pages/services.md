@@ -31,7 +31,7 @@ horizontal: false
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for service in sorted_services %}
-      {% include projects.liquid %}
+      {% include services.liquid %}
     {% endfor %}
   </div>
   {% endif %}
@@ -50,17 +50,16 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for service in sorted_services %}
-      {% include projects_horizontal.liquid %}
+      {% include services_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for service in sorted_services %}
-      {% include projects.liquid %}
+      {% include services.liquid %}
     {% endfor %}
   </div>
   {% endif %}
 {% endif %}
 </div>
-
