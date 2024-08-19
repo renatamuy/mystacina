@@ -10,7 +10,7 @@ related_publications: false
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="self-development" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="self-development" class="img-fluid rounded z-depth-1" style="width: 50%;" %}
     </div>
 </div>
 <div class="caption text-center">
