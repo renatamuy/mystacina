@@ -26,3 +26,6 @@ Need to start flying? We got you covered! Mystacina Intelligence grew from my ex
 
 
 As nobody builds anything alone, please see our excellent advisory board below.
+
+# Advisory Board
+

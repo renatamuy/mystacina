@@ -7,6 +7,7 @@ subtitle: Helping you soar. Elevating your journey.
 profile:
   align: right
   image: prof_pic.jpg
+  image_style: "width: 300px; height: auto;"
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> </p>
