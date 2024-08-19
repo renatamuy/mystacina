@@ -10,9 +10,7 @@ related_publications: false
 
 
 
-# Pascal mentoring package
-
-Mentoring through conversation and techniques for using your voice to fully express yourself. Aims to guide and support the mentee's development and achievement of goals over a longer period. Focused on students and early career professionals.
+Our **Pascal mentoring package** consists of mentoring through conversation and techniques for using your voice to fully express yourself. Aims to guide and support the mentee's development and achievement of goals over a longer period. Focused on students and early career professionals.
 
 **Benefits:** Articulate your game so you can achieve better results in your life. Mentoring sessions provide personalized guidance, skill development, and goal-setting support, boosting your professional growth, confidence, and motivation. They also offer networking opportunities, fresh perspectives, and problem-solving assistance, helping you to achieve your full potential.
 

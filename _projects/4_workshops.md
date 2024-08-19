@@ -8,7 +8,8 @@ category: workshops
 ---
 
 
-#Masterclasses on demand: 
+
+Masterclasses on demand. 
 
 ###Leaving the island: how to establish fruitful international collaborations
 
@@ -17,7 +18,7 @@ category: workshops
 ###Use your voice in English
 
 
-#Workshops on demand: 
+Workshops on demand. 
 
 Please contact us for a chat. We have different workshops and training sessions around self-development, team building, and active listening.
 

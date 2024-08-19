@@ -9,7 +9,7 @@ giscus_comments: false
 ---
 
 
-We make sense of your data including wrangling, insights, workflow and metadata support. We offer tools and services for data analytics, data mining, and data visualization to help organizations optimize operations and decision-making processes. 
+We make sense of your data including wrangling, insights, workflow and metadata support. We offer tools and services for data analytics, data mining, and data visualization to help organizations optimize operations and decision-making processes. For more information, contact us [here](mailto:renatamuy@gmail.com).
 
 
 <div class="row">

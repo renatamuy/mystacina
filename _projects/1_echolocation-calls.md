@@ -9,14 +9,13 @@ related_publications: false
 ---
 
 
-# Echolocation calls
-
 Online or in person, one on one, active listening sessions.
 
 **Benefits:** Enhances communication skills and fosters better interpersonal interactions. Echolocation sessions are great for people interested in excelling in cross-cultural environments and introverted people struggling to have their voices heard. Package deals available for students.
 
 **Echolocation is crucial for bats, allowing them to navigate and hunt in the dark.** Similarly, we use our voices to navigate life, communicate, and connect with others. Just as bats rely on echoes to understand their surroundings, we rely on expressing ourselves and analysing reactions to shape our paths and grow.
 
+Book a :free: first session [here](mailto:renatamuy@gmail.com). 
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">

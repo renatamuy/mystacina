@@ -8,7 +8,8 @@ importance: 3
 category: writing
 ---
 
-We are service providers for individuals, teams and institutions. 
+
+We are service providers for individuals, teams and institutions. For more information, contact us [here](mailto:renatamuy@gmail.com).
 
 
 # Custom Reports

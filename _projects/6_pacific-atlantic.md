@@ -9,9 +9,8 @@ related_publications: false
 ---
 
 
-# Pacific-Atlantic voice
 
-Focused conversation sessions on topical issues throughout the Atlantic and the Pacific. This package is targeted for people who are interested in improving their speaking skills through interacting with environments motivated by the Brazilian social spirit and South American gravitas. 
+Our Pacific-Atlantic voices package is focused conversation sessions on topical issues throughout the Atlantic and the Pacific. This package is targeted for people who are interested in improving their speaking skills through interacting with environments motivated by the Brazilian social spirit and South American gravitas. 
 
 **Benefits:** The focused session enhances cultural understanding and communication skills for effectively developing your communication potential.
 
