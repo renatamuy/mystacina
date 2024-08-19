@@ -180,7 +180,7 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:title/
-  projects:
+  services:
     output: true
     permalink: /:collection/:title/
 
