@@ -4,7 +4,7 @@ title: services
 permalink: /services/
 description: Showcasing our main services.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [self-development, analytics, writing, workshops]
 horizontal: false
 ---
