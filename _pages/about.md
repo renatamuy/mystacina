@@ -19,7 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Need to start flying? We got you covered! Mystacina Solutions grew from our experience working with people from more than forty countries during our professional journey. We realised people need to listen to each other more, do more self-reflection and get more constructive feedback. In Mystacina Solutions, we have tailored solutions for whatever is keeping you away from thriving at your career. 
+Need to start flying? We got you covered! 
+
+Mystacina Solutions was born from our experience working with people from over forty countries in data analysis for research, applied science, and communication. While meeting the high demand for data analysis skills, we also recognized a pervasive need for better listening, self-reflection, and constructive feedback in our communities. At Mystacina Solutions, we offer tailored solutions designed to help you thrive in your career. Our work packages include **self-development**, **data analysis**, **writing**, and **workshops**. Visit our [services page](https://renatamuy.github.io/mystacina/services/) and explore our [credentials](https://renatamuy.github.io/mystacina/people/) to learn how we can support your **success**.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
